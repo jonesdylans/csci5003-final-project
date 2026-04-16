@@ -1,6 +1,6 @@
 **TutorsTable**
 
-The tutor's table would have the tutor's name, the subjects they tutor, times they are available entered in military time and separated by a comma (Separated by hour intervals for hour long tutoring sessions, 0700, 0800, 0900, 1000), and two primary keys; One that works as the unique tutoring ID and the other unique ID's for the subjects they are tutoring. This tables purpose would be the primary table in deciding tutor assignment. 
+The tutor's table would have the tutor's name, the subjects they tutor, times they are available entered in military time and separated by a comma (Separated by hour intervals for hour long tutoring sessions, 0700, 0800, 0900, 1000), and a primary key that works as the unique tutors ID. This tables purpose would be the primary table in deciding tutor assignment. 
 
 **StudentsTable**
 
